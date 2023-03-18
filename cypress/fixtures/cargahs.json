@@ -1,0 +1,33 @@
+[
+    {
+        "crio":"CRIO-33403",
+        "descripcion":"Daily",
+        "fechaInicio":"15/Mar./2023",
+        "fechaFinalizacion":"16/Mar./2023",
+        "hs":"1h"
+    },
+
+    {
+        "crio":"CRIO-33403",
+        "descripcion":"Reuniones: Reviews - Planning - Consultas - Reuniones espontaneas - Capacitaciones",
+        "fechaInicio":"15/Mar./2023",
+        "fechaFinalizacion":"16/Mar./2023",
+        "hs":"3h"
+    },
+
+    {
+        "crio":"CRIO-33415",
+        "descripcion":"Diseño o verificación de Casos de Prueba",
+        "fechaInicio":"15/Mar./2023",
+        "fechaFinalizacion":"16/Mar./2023",
+        "hs":"2h"
+    },
+
+    {
+        "crio":"CRIO-33415",
+        "descripcion":"Revisión de casos de prueba para automatizar - HYQA-74350 --> Casos de Regresión Medicamentos",
+        "fechaInicio":"15/Mar./2023",
+        "fechaFinalizacion":"16/Mar./2023",
+        "hs":"2h"
+    }
+]
